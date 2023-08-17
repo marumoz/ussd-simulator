@@ -1,0 +1,18 @@
+{
+  "name": "eef-portal",
+  "version": "1.0.0",
+  "description": "Configurable Portal App",
+  "main": "index.js",
+  "author": "Moses Maru",
+  "license": "MIT",
+  "scripts": {
+    "prod": "pm2 start index.js --name USSD_SIMULATOR -i max"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "csurf": "^1.11.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^6.3.0",
+    "helmet": "^4.4.1"
+  }
+}

@@ -1,0 +1,47 @@
+Ushuru - USSD project:
+Faulu - USSD. Handling all support issues:
+Century - USSD and backend api's:
+FCB - Customer facing portal(Project) and Pilot support issues:
+Kentapay system - USSD & API integration to Jisort support issues:
+✔ EEF - backend Portal API: @done(22-03-25 04:43)
+EEF - Teller Portal:
+✔ Safaricom to Eclectics Router API: @done(22-02-16 16:37)
+
+
+Nyala - USSD and backend api's:
+    ☐ ussd login
+    ☐ create configs
+    ☐ 
+
+iKonnect:
+    ☐ FX issue
+
+
+
+Configurable USSD Engine:
+    ✔ move config formatter to Redis @done(22-02-16 16:36)
+    ✔ change session key to individual ids with timestamp @done(22-02-19 16:55)
+    ✔ encrypt customer data to redis @done(22-02-19 21:20)
+    ✔ validation arguments to be oject - to remove loop array @done(22-04-18 13:06)
+    ☐ create custom dynamic format-as functions for value, save-as, splitting && meta-saving
+    ✔ integrator service for different MNOs @done(22-05-24 22:44)
+    ☐ analytics service
+    ☐ Migration guide
+    ☐ Readme && Documentation
+
+USSD Config Portal:
+    ✔ Create prompt steps @done(22-02-17 16:31)
+    ✔ Edit prompt steps @done(22-02-17 16:31)
+    ✔ Create prompt @done(22-02-17 16:31)
+    ✔ Edit/View API Metadata @done(22-02-18 02:55)
+    ✔ Edit/View API Permissions @done(22-02-18 02:55)
+    ✔ Edit/View/Create/delete API Data-sources @done(22-02-18 04:01)
+    ✔ View/Delete API endpoints @done(22-02-18 05:05)
+    ✔ Create API endpoints @done(22-04-18 12:31)
+    ✔ Edit API endpoints @done(22-04-18 12:31)
+    ✔ test ussd view @done(22-02-26 05:23)
+    ✔ create simulator for dialing and sending request to API @done(22-02-26 05:23)
+    ✔ add theme switch to navbar @done(22-02-28 02:27)
+    ☐ Add whitelist
+    ☐ Add permissions
+    ☐ Readme && Documentation

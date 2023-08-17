@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "USSD_DEVELOPER_PORTAL",
+            "script": "npm",
+            "args" : ["run","start"],
+            "instances"        : "1",
+            "watch"            : false,
+            "time"             : false,
+            "error_file"       : "/dev/null",
+            "watch_options"  : {
+                "followSymlinks": false
+            }
+        }
+    ]
+}
